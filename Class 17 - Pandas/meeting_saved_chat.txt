@@ -1,0 +1,350 @@
+20:03:08 From Dr. Ghulam Shabbir To Everyone:
+	AoA Honorable Sir Qasim Sb. Stay blessed always iA.
+20:03:39 From M Qasim To Everyone:
+	sir aj payare lag rahy hy
+20:03:59 From Dr. Ghulam Shabbir To Everyone:
+	Fantastic
+20:04:34 From jhon wick To Everyone:
+	Reacted to "sir aj payare lag ra..." with 😂
+20:04:41 From M Qasim To Everyone:
+	Reacted to "sir aj payare lag ra..." with 😂
+20:04:52 From M Qasim To Everyone:
+	Removed a 😂 reaction from "sir aj payare lag ra..."
+20:04:54 From M Qasim To Everyone:
+	Reacted to "sir aj payare lag ra..." with 😂
+20:04:55 From M Qasim To Everyone:
+	Removed a 😂 reaction from "sir aj payare lag ra..."
+20:06:01 From Abdullah To Everyone:
+	sir ap kal ki class me ni ayen gy kia??
+20:06:02 From M Qasim To Everyone:
+	Sir Faisalabad b a rahy hy kya ap?
+20:06:47 From Yasir To Everyone:
+	Sir generative ai ki class online b hogi na?????
+20:07:01 From Sheikh Hamza To Everyone:
+	Sir data analytics ke liye maths statistics and probability ani chaye??
+20:07:22 From Yasir To Everyone:
+	Replying to "Sir generative ai ki..."
+	
+	@Ikhlas Bhojani PLease ask from sir?
+20:07:55 From Ikhlas Bhojani To Everyone:
+	Replying to "Sir generative ai ki..."
+	
+	ok wait
+20:08:50 From Dr. Ghulam Shabbir To Everyone:
+	Sir Qasim Sb. You were frequently discussed and were given honored and salute in our today's class at Islamabad. Dr. Ghulam Shabbir
+20:09:10 From STONE To Everyone:
+	Reacted to "Sir Qasim Sb. You we..." with 👍
+20:09:12 From Hatif Humayun To Everyone:
+	Reacted to "Sir Qasim Sb. You we..." with 👍
+20:09:17 From Dr. Ghulam Shabbir To Everyone:
+	Reacted to "Sir Qasim Sb. You we..." with 👍
+20:09:24 From STONE To Everyone:
+	Removed a 👍 reaction from "Sir Qasim Sb. You we..."
+20:09:31 From STONE To Everyone:
+	Reacted to "Sir Qasim Sb. You we..." with 👍
+20:09:32 From STONE To Everyone:
+	Removed a 👍 reaction from "Sir Qasim Sb. You we..."
+20:12:00 From Amanat Wattoo To Everyone:
+	Pd kia convention h
+20:12:17 From Amanat Wattoo To Everyone:
+	Ya koi or be naam de skte hn
+20:12:31 From farhan To Everyone:
+	Convention hey
+20:12:47 From KifayatUllah To Everyone:
+	screen is not visible to me, may be network issue or something else
+20:14:14 From Rehan Alı WAKKAS To Everyone:
+	Import pandas as pd and import pandora as pa.
+	What is pd and pa ?
+20:14:26 From farhan To Everyone:
+	Just names
+20:15:03 From Ikhlas Bhojani To Everyone:
+	koi question ho tw hand raise kriyea jese i moka milega me unmute krdonga
+20:15:38 From Talha To Everyone:
+	Replying to "Import pandas as pd ..."
+	
+	Alias, instead of writing long words pandas and pandora, we can write pd and pa as their short form
+20:15:42 From Rehan Alı WAKKAS To Everyone:
+	@Ikhlas Bhojani  
+	Import pandas as pd and import pandora as pa.
+	What is pd and pa ?
+20:16:22 From Ikhlas Bhojani To Everyone:
+	Replying to "@Ikhlas Bhojani  
+	Im..."
+	
+	alias
+20:16:41 From Jazil Hashmi To Everyone:
+	Import pandas could not be resolved from source. Why is this error coming? @Ikhlas Bhojani
+20:16:53 From Ikhlas Bhojani To Everyone:
+	Replying to "@Ikhlas Bhojani  
+	Im..."
+	
+	like nick name
+20:17:34 From Ikhlas Bhojani To Everyone:
+	!pip install pandas
+20:17:44 From Rehan Alı WAKKAS To Everyone:
+	Replying to "@Ikhlas Bhojani  
+	Im..."
+	
+	Do they refer to Directories or what ?
+20:19:56 From Abdullah To Everyone:
+	Pandas is usually imported under the pd alias. alias: In Python alias are an alternate name for referring to the same thing. Create an alias with the as keyword while importing: import pandas as pd. Now the Pandas package can be referred to as pd instead of pandas .
+20:20:27 From farhan To Everyone:
+	These are nicknames used by community
+20:25:00 From ahsan rasheed To Everyone:
+	Mary kush lectures rah gy hain
+20:25:13 From ahsan rasheed To Everyone:
+	Kia ya lecture record ho rhy hain
+20:25:21 From ABDUL KHALIQ To Everyone:
+	g
+20:25:24 From ABDUL KHALIQ To Everyone:
+	youtube
+20:25:29 From ABDUL KHALIQ To Everyone:
+	panaverse dao
+20:25:46 From ahsan rasheed To Everyone:
+	Thanks
+20:26:27 From Kamran Ahmed To Everyone:
+	tabular form in panada
+20:26:44 From Sarwar Faridi To Everyone:
+	TABULAR
+20:26:52 From Sarwar Faridi To Everyone:
+	2D
+20:26:54 From Kamran Ahmed To Everyone:
+	index value also shown
+20:27:04 From Ahmed Siddiqui To Everyone:
+	matrix
+20:27:05 From Kamal Hassan To Everyone:
+	series men indexing h or tabular form mn h
+20:29:55 From Kaleem To Everyone:
+	sir series ma duplicate values bhi dy kar daikhain!!
+20:35:08 From Zeeshan Abbas To Everyone:
+	Sir what is INT64
+20:37:17 From Ikhlas Bhojani To Everyone:
+	koi question he tw hand raise krke rakhen
+20:37:49 From Zeeshan Abbas To Everyone:
+	mera question hai what is INT64
+20:38:02 From Abdullah To Everyone:
+	smj e ni aya 	repeat krwa dyen
+20:39:23 From Altaf Hussain To Everyone:
+	Just like Chart of accounts in Accounting...
+20:39:41 From Ahmed Siddiqui To Everyone:
+	Reacted to "Just like Chart of a..." with 👍
+20:40:31 From hi To Everyone:
+	what is int 64
+20:40:43 From hi To Everyone:
+	dtype: int 64
+20:40:52 From Zeeshan Abbas To Everyone:
+	Sir why is showing INT64 in below
+20:40:56 From Ikhlas Bhojani To Everyone:
+	Replying to "mera question hai wh..."
+	
+	type hoti he data ki
+20:42:21 From Kaleem To Everyone:
+	in our structure data types of data we use key, value /key, pair values to define our data, how to translate that data Series?
+20:42:25 From Asif Ali Shaikh To Everyone:
+	int 64 is memory
+20:42:42 From Asif Ali Shaikh To Everyone:
+	Web3
+20:45:08 From Zeeshan Abbas To Everyone:
+	Reacted to "Web3" with 👍
+20:46:12 From Galaxy To Everyone:
+	Sir g account udaar dy dy
+20:46:23 From Galaxy To Everyone:
+	Reacted to Sir g account udaar ... with "😂"
+20:46:37 From Ayesha Arshad To Everyone:
+	Reacted to "Sir g account udaar ..." with 😂
+20:46:38 From Ayesha Arshad To Everyone:
+	Removed a 😂 reaction from "Sir g account udaar ..."
+20:46:39 From jhon wick To Everyone:
+	Reacted to "Sir g account udaar ..." with 😂
+20:46:40 From Ayesha Arshad To Everyone:
+	Reacted to "Sir g account udaar ..." with 😂
+20:46:51 From Taif Ullah To Everyone:
+	is bing equal to gpt 4
+20:49:03 From fahad rasheed To Everyone:
+	2 dimension data hy pora select krna parhyga "" mn
+20:49:08 From Azfar Suhail To Everyone:
+	from nptyping import DataFrame as DF, Structure as S		s2 : DF[S["Abc : str"]] = pd.Series(['a','b','c','d','e'])	s2
+20:49:17 From Azfar Suhail To Everyone:
+	this is working
+20:51:54 From Saboor Hussain To Everyone:
+	Reacted to "Sir g account udaa..." with 😂
+20:51:55 From Saboor Hussain To Everyone:
+	Removed a 😂 from "Sir g account udaa..."
+20:58:37 From jhon wick To Everyone:
+	yes
+20:59:02 From farhan To Everyone:
+	Kindly unmute
+20:59:20 From Ikhlas Bhojani To Everyone:
+	Replying to "Kindly unmute"
+	
+	wait
+21:00:41 From PIAIC80919 Muhammad Asad To Everyone:
+	Assalamu Aliakum
+21:01:30 From Faizan Hassan To Everyone:
+	s1.name kar k kar saktay hon ge
+21:01:41 From PIAIC80919 Muhammad Asad To Everyone:
+	I joined late on zoom meet so kindly share links that sir share until now
+21:02:23 From Taif Ullah To Everyone:
+	Replying to "I joined late on zoo..."
+	
+	every thing will be on github
+21:04:16 From PIAIC80919 Muhammad Asad To Everyone:
+	Numpy aur Pandas kay liya sir nay koi book share ki hai kay nahi
+21:04:40 From Amanat Wattoo To Everyone:
+	Replying to "Numpy aur Pandas kay..."
+	
+	no
+21:05:16 From PIAIC80919 Muhammad Asad To Everyone:
+	aur python kay liya koi alag WhatsApp group hai to please uska b link share kardien
+21:05:52 From Amanat Wattoo To Everyone:
+	Replying to "aur python kay liya ..."
+	
+	no koi group nhi bnia h
+21:07:15 From Abdullah To Everyone:
+	upper array wala code knsa ha??
+21:07:49 From Hamza To Everyone:
+	"Shape", "Shape"
+21:08:07 From Hamza To Everyone:
+	"Size", "Size"
+21:08:24 From SheikhMAqib To Everyone:
+	Double coat
+21:08:30 From Azfar Suhail To Everyone:
+	Shape turtle se import kara hai
+21:08:48 From Azfar Suhail To Everyone:
+	shape nptyping se import nhi howa
+21:09:31 From Muhammad Uzair To Everyone:
+	shape galat import ha
+21:09:33 From Khadija Zahid To Everyone:
+	shape ko kindly ek br explain kr den dbra
+21:09:48 From Yasir To Everyone:
+	shape import
+21:09:51 From Yasir To Everyone:
+	missing
+21:09:53 From Muhammad Uzair To Everyone:
+	from import typing shape
+21:10:08 From Saboor Hussain To Everyone:
+	sir
+21:10:16 From Saboor Hussain To Everyone:
+	aap nptyping se shape ko import karen
+21:10:19 From Yasir To Everyone:
+	import nhi kia shape
+21:10:21 From farhan To Everyone:
+	Shape import nahi thi
+21:10:22 From Azfar Suhail To Everyone:
+	turtle se import kara hai
+21:14:08 From sadia To Everyone:
+	can we get values 0 1 2 3 4 5 6 7 8 in vertical, abhi data horizontal arha hai
+21:18:07 From Faiz M To Everyone:
+	Sir chezy hard sy hard hoti ja rahe hy. aaj tho sir k oper oper ja raha hy.
+21:18:53 From Qasim(CGAIO) To Everyone:
+	https://www.w3schools.com/python/pandas/data.js
+21:19:18 From Khadija Zahid To Everyone:
+	html wala b ek br code dekha k bta de plz
+21:19:19 From Abdullah To Everyone:
+	kindly class k bd groups me sessions ka link send kr dia kryen
+21:21:24 From Abdullah To Everyone:
+	Replying to "kindly class k bd gr..."
+	
+	@Ikhlas Bhojani
+21:22:09 From Ahmed Siddiqui To Everyone:
+	what if data size in millions, what kind of preprocessing is required before handing over to pandas?
+21:22:38 From Ikhlas Bhojani To Everyone:
+	Replying to "kindly class k bd gr..."
+	
+	me ap logo ke group me nhi hn
+21:22:57 From Abdullah To Everyone:
+	Replying to "kindly class k bd gr..."
+	
+	bro sir sy kah dyen 	ya sir Imran sy request kr dyen
+21:24:11 From Ikhlas Bhojani To Everyone:
+	Replying to "html wala b ek br co..."
+	
+	pd.read_html("url")
+21:26:00 From Kaleem To Everyone:
+	how to make identical data ?
+21:26:17 From Afifa Dar To Everyone:
+	colmn3 k chexk me ==2 se kya horaha ?
+21:32:26 From Ali Zar FSD To Everyone:
+	sliding
+21:32:38 From Ali Zar FSD To Everyone:
+	likha gya sir
+21:32:57 From fahad rasheed To Everyone:
+	sir thora data large kryn plx
+21:33:16 From fahad rasheed To Everyone:
+	for slicing thora data bardhae
+21:39:52 From raheela To Everyone:
+	Name is tort ???
+21:40:43 From Naveed Delattre To Everyone:
+	it’s toad
+21:41:42 From Altaf Hussain To Everyone:
+	PIAIC-173738
+21:41:48 From Hamza To Everyone:
+	PIAIC-201785
+21:41:49 From jhon wick To Everyone:
+	piaic 223880
+21:41:51 From Hina Zargham To Everyone:
+	PIAIC101499
+21:41:51 From Hatif Humayun To Everyone:
+	PIAIC-52822
+21:41:51 From Ahmed Siddiqui To Everyone:
+	PIAIC123456
+21:41:54 From Arif Najmi To Everyone:
+	125657
+21:41:57 From Rehan Baig - PIAIC73919 To Everyone:
+	PIAIC73919
+21:41:57 From STONE To Everyone:
+	ZAM - 786
+21:41:58 From M. Waheed Iqbal (PIAIC_126369) To Everyone:
+	PIAIC_126369
+21:42:00 From . To Everyone:
+	PIAIC210905
+21:42:03 From ABDUL KHALIQ To Everyone:
+	PIAIC-604031
+21:42:08 From Arshad Siddiqui To Everyone:
+	PIAIC120702
+21:42:10 From Ali Zar FSD To Everyone:
+	PIaic 223972
+21:42:10 From Azfar Suhail To Everyone:
+	PIAIC218333
+21:42:11 From Kamran Ahmed To Everyone:
+	PIAIC139495
+21:42:15 From Ahmed To Everyone:
+	216511
+21:42:17 From Ayesha Arshad To Everyone:
+	PIAIC-225620
+21:42:22 From Kamal Hassan To Everyone:
+	PIAIC58320
+21:42:26 From Ahmed To Everyone:
+	PIAIC-2165111
+21:42:27 From Kaleem To Everyone:
+	PIAIC:001100
+21:42:31 From Arif Najmi To Everyone:
+	PIAIC 125657
+21:42:33 From Yasir To Everyone:
+	PIAIC63502
+21:42:34 From Ahmed To Everyone:
+	PIAIC-216511
+21:42:39 From Ali To Everyone:
+	PIAIC76588
+21:42:43 From M Qasim To Everyone:
+	PIAIC178397
+21:42:52 From Dr. Ghulam Shabbir To Everyone:
+	PIAIC208889
+21:42:56 From IMRAN To Everyone:
+	PIAIC216423
+21:43:02 From Ahmed To Everyone:
+	PIAIC-216511
+21:43:13 From Kamal Hassan To Everyone:
+	PIAIC,58321
+21:43:26 From Zeeshan Abbas To Everyone:
+	PIAIC221479
+21:43:40 From Amanat Wattoo To Everyone:
+	PIAIC174651
+21:44:10 From Ahsan To Everyone:
+	PIAIC185091
+21:44:23 From Amanat Wattoo To Everyone:
+	@Ikhlas Bhojani bhai chat ko save kaisy save krwia h
+21:45:07 From Ikhlas Bhojani To Everyone:
+	Replying to "@Ikhlas Bhojani bhai..."
+	
+	neeche three dot se
